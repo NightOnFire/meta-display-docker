@@ -1,0 +1,3 @@
+[submodule "/Users/joel/projects/meta-display/plugins/meta-display"]
+	path = /Users/joel/projects/meta-display/plugins/meta-display
+	url = git@github.com:NightOnFire/meta-display.git
